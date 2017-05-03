@@ -18,3 +18,23 @@ C:\Users\11500191\Documents\PXL\Basic Security\BasicSecurity\BasicSecurity.Data\
 C:\Users\11500191\Documents\PXL\Basic Security\BasicSecurity\BasicSecurity.Data\bin\Debug\SimpleInjector.Integration.WebApi.xml
 C:\Users\11500191\Documents\PXL\Basic Security\BasicSecurity\BasicSecurity.Data\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\11500191\Documents\PXL\Basic Security\BasicSecurity\BasicSecurity.Data\bin\Debug\System.Web.Http.xml
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\BasicSecurity.Data.dll.config
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\BasicSecurity.Data.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\BasicSecurity.Data.pdb
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\EntityFramework.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\SimpleInjector.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\System.Web.Http.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\EntityFramework.xml
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\SimpleInjector.xml
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\bin\Debug\System.Web.Http.xml
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.csprojResolveAssemblyReference.cache
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.dll
+C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.pdb
