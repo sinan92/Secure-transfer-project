@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BasicSecurity.Data.DomainClasses;
+using BasicSecurity.Models;
 
 namespace BasicSecurity.Data
 {
@@ -24,6 +25,15 @@ namespace BasicSecurity.Data
 
         public Person Add(Person person)
         {
+            var password = person.Password;
+            var help = PasswordHash.HashPassword(password);
+            var help2 = help.Split(':');
+            var hash = help2[2];
+            var salt = help2[1];
+
+            person.Password = hash;
+            person.Salt = salt;
+
             _personContext.Persons.Add(person);
             _personContext.SaveChanges();
             return person;
