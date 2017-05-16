@@ -74,7 +74,7 @@
     <Compile Include="IPersonRepository.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="PasswordHash.cs" />
-    <Compile Include="PersonContext.cs" />
+    <Compile Include="PersonContext2.cs" />
     <Compile Include="PersonDbRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

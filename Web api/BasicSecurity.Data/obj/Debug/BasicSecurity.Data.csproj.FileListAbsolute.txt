@@ -38,3 +38,23 @@ C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Dat
 C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.csprojResolveAssemblyReference.cache
 C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.dll
 C:\Users\11500191\Documents\PXL\Basic Security\Web api\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.pdb
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\BasicSecurity.Data.dll.config
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\BasicSecurity.Data.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\BasicSecurity.Data.pdb
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\EntityFramework.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\SimpleInjector.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\System.Web.Http.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\EntityFramework.xml
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\SimpleInjector.xml
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\bin\Debug\System.Web.Http.xml
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.dll
+C:\xampp\htdocs\NetProgramma\Web api\BasicSecurity.Data\obj\Debug\BasicSecurity.Data.pdb

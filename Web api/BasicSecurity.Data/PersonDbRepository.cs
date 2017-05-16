@@ -10,7 +10,7 @@ namespace BasicSecurity.Data
 {
     public class PersonDbRepository : IPersonRepository
     {
-        private readonly PersonContext _personContext = new PersonContext();
+        private readonly PersonContext2 _personContext = new PersonContext2();
 
         public IEnumerable<Person> GetAll()
         {
