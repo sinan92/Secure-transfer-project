@@ -23,7 +23,7 @@ namespace BasicSecurity
             config.MapHttpAttributeRoutes();
             config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new MediaTypeHeaderValue("text/html"));
 
-            var corsAttr = new EnableCorsAttribute("http://127.0.0.1", "*", "*");
+            var corsAttr = new EnableCorsAttribute("http://localhost", "*", "*");
             config.EnableCors(corsAttr);
 
             config.Routes.MapHttpRoute(

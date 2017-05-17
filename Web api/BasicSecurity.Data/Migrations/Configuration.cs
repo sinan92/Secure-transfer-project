@@ -5,14 +5,14 @@ namespace BasicSecurity.Data.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<BasicSecurity.Data.PersonContext2>
+    internal sealed class Configuration : DbMigrationsConfiguration<BasicSecurity.Data.PersonContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
         }
 
-        protected override void Seed(BasicSecurity.Data.PersonContext2 context)
+        protected override void Seed(BasicSecurity.Data.PersonContext context)
         {
             //  This method will be called after migrating to the latest version.
 
