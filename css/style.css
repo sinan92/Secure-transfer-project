@@ -1,0 +1,58 @@
+body{
+    background-color: #2294b4;
+    margin: 0 auto;
+}
+
+.container-fluid{
+    margin-top: 15%;
+    width: 800px;
+}
+
+label{
+    color: white;
+}
+
+#submit{
+    float: right;
+}
+
+#logo{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#logo i{
+    color: #ffffff;
+}
+
+#side-menu, #content{
+    background-color: white;
+    border-radius: 5px;
+    height: 500px;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: inline-block;
+}
